@@ -1,4 +1,4 @@
 # prefix,country_code,region_code,city
-2a12:bec0:210::/44,UK,GB-ENG,London
-2a12:bec0:5f0::/44,UK,GB-ENG,London
-179.61.226.0/24,UK,GB-ENG,London
+2a12:bec0:210::/44,UK,GB-ENG,Manchester
+2a12:bec0:5f0::/44,UK,GB-ENG,Manchester
+2a12:bec0:6b0::/44,UK,GB-ENG,Manchester
